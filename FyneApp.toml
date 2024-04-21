@@ -1,6 +1,6 @@
 [Details]
-  Icon = "icon.png"
-  Name = "Beep-Boop"
-  ID = "com.github.MatusOllah.beep-boop"
-  Version = "1.0.0"
-  Build = 2
+	Icon = "icon.png"
+	Name = "Beep-Boop"
+	ID = "com.github.MatusOllah.beep-boop"
+	Version = "1.0.0"
+	Build = 3
