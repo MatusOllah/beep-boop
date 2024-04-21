@@ -1,0 +1,2 @@
+//source: https://dollchan.net/bytebeat/#v3b64bY49C8IwFEX/ywNtEqNJkzQtQroUhG7iKg7RZhD6Edq3if/doIiLcO9y7nDPA25TF2APwanC8tkZyTunFY8OmWKMRD8voR2RZLJpUooyO5drrOtcX7i2VOSKCrUzmi/3kXwb2bEVeVpLy8i8RRFWHd28abqhovpHf0xYAxwWP8Q+nDwmP1NJKTkMH9lDP3m8Bo/wfAE
+e=256,r=40,d=32,p=t*2**(parseInt('0CC0CC57'[7&t>>13],36)/12)/2.43,sin(sin(sin(p*PI/16)/76*(r-t/e%d)+p*PI/256)/8*(r-t/e%d)+p*PI/256)*(r-t/e%d)/64
