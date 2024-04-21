@@ -1,7 +1,7 @@
 GO = go
 FYNE = $(GO) run fyne.io/fyne/v2/cmd/fyne@latest
 
-TARGET=windows
+TARGET=$(shell $(GO) env GOOS)
 BINARY=./bin/$(TARGET)
 
 all: build
